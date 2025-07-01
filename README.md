@@ -31,7 +31,7 @@ This is a DSA data analysis capstone project focused on 1466 Amazon products. It
     ## Author
     **Hannah Oluwakemi Babatope**
     DSA DATA ANALYSIS STUDENT
-    Project Date: June 2025
+    Project Date: July 2025
     
      
 

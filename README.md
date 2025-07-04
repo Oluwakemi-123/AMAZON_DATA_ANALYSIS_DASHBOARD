@@ -1,6 +1,6 @@
 # AMAZON PRODUCT DATA ANALYSIS DASHBOARD
 
-This is a DSA data analysis capstone project focused on 1466 Amazon products. It explores product ratings,reviews, discounts, and revenue using Excel tools like pivotables, formulas, and charts.
+This is a DSA data analysis capstone project focused on 1465 Amazon products. It explores product ratings,reviews, discounts, and revenue using Excel tools like pivotables, formulas, and charts.
 
 ## Project Files
 - `Amazon_Case_Study.xslx` -Full Excel workbook with data cleaning, analysis and charts
